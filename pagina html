@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wiki Brasil Games</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>GTA San Andreas</h1>
+
+        
+    </header>
+    
+    <section id="story">
+        <h2>História</h2>
+        <p>GTA San Andreas é um jogo de ação-aventura lançado em 2004 pela Rockstar Games. A história se passa no estado fictício de San Andreas, baseado na Califórnia e Nevada, durante o início dos anos 90. O jogador controla Carl "CJ" Johnson, que retorna para casa após a morte de sua mãe para descobrir que sua família e sua antiga gangue estão em apuros.</p>
+    </section>
+    <section id="characters">
+        <h2>Personagens</h2>
+        <p>O jogo apresenta uma variedade de personagens memoráveis, incluindo CJ, Sweet, Big Smoke, Ryder, e muitos outros.</p>
+    </section>
+    <section id="gameplay">
+        <h2>Jogabilidade</h2>
+        <p>GTA San Andreas oferece uma jogabilidade de mundo aberto, permitindo que os jogadores explorem livremente o vasto ambiente urbano. Além das missões da história principal, os jogadores podem participar de uma variedade de atividades, como corridas de carros, roubo de veículos e combates de gangues.</p>
+    </section>
+    <section id="gallery">
+        <h2>Imagens do jogo</h2>
+        <div class="image-gallery">
+            <img src="https://www.mixmods.com.br/wp-content/uploads/2022/04/gta-sa-definitive-trilogy-proper-radar-recolor.jpg" alt="GTA San Andreas Screenshot 1">
+            <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1547000/ss_a274e6069b8a242ea37cfdd37b7a2fb01fae9315.1920x1080.jpg?t=1676922466" alt="GTA San Andreas Screenshot 2">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT958lBdSSX6VgxJy1gOuZQQ3Ko695UE4MH0w&usqp=CAU" alt="GTA San Andreas Screenshot 3">
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Wiki Brasil Games</p>
+    </footer>
+</body>
+</html>
