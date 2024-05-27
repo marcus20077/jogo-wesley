@@ -2,39 +2,42 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wiki Brasil Games</title>
+    <title>Wikiplay.net</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>GTA San Andreas</h1>
-
-        
-    </header>
-    
-    <section id="story">
-        <h2>História</h2>
-        <p>GTA San Andreas é um jogo de ação-aventura lançado em 2004 pela Rockstar Games. A história se passa no estado fictício de San Andreas, baseado na Califórnia e Nevada, durante o início dos anos 90. O jogador controla Carl "CJ" Johnson, que retorna para casa após a morte de sua mãe para descobrir que sua família e sua antiga gangue estão em apuros.</p>
-    </section>
-    <section id="characters">
-        <h2>Personagens</h2>
-        <p>O jogo apresenta uma variedade de personagens memoráveis, incluindo CJ, Sweet, Big Smoke, Ryder, e muitos outros.</p>
-    </section>
-    <section id="gameplay">
-        <h2>Jogabilidade</h2>
-        <p>GTA San Andreas oferece uma jogabilidade de mundo aberto, permitindo que os jogadores explorem livremente o vasto ambiente urbano. Além das missões da história principal, os jogadores podem participar de uma variedade de atividades, como corridas de carros, roubo de veículos e combates de gangues.</p>
-    </section>
-    <section id="gallery">
-        <h2>Imagens do jogo</h2>
-        <div class="image-gallery">
-            <img src="https://www.mixmods.com.br/wp-content/uploads/2022/04/gta-sa-definitive-trilogy-proper-radar-recolor.jpg" alt="GTA San Andreas Screenshot 1">
-            <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1547000/ss_a274e6069b8a242ea37cfdd37b7a2fb01fae9315.1920x1080.jpg?t=1676922466" alt="GTA San Andreas Screenshot 2">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT958lBdSSX6VgxJy1gOuZQQ3Ko695UE4MH0w&usqp=CAU" alt="GTA San Andreas Screenshot 3">
-        </div>
-    </section>
-    <footer>
-        <p>&copy; 2024 Wiki Brasil Games</p>
-    </footer>
+    <div class="container">
+        <header>
+            <h1>GTA San Andreas</h1>
+            <p>O jogo se passa no estado ficcional de San Andreas, com a história seguindo Carl "CJ" Johnson em sua luta para lidar com guerras de gangues, confrontos com policiais e as relações com sua família e amigos. O mundo aberto permite que os jogadores naveguem livremente pelas áreas rurais e urbanas de San Andreas.</p>
+            
+            
+            
+            
+            
+            
+            <p>Conheça os personagens icônicos deste clássico jogo de ação.</p>
+        </header>
+        <section class="character">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxh6gfmvY3AP63_Zi_XlV9yMruNwGs0eXe9kAX0L4SQ&s" alt="CJ">
+            <h2>Carl Johnson (CJ)</h2>
+            <p>Carl é o protagonista de GTA San Andreas, retornando à sua cidade natal após a morte de sua mãe. Ele é forçado a entrar de novo no mundo do crime.</p>
+            <p>Avaliação: ★★★★☆</p>
+        </section>
+        <section class="character">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTglcDN-UpaBFXc9qKd6eFY28MTQLSD6GQav2cqnlxmYQ&s" alt="Big Smoke">
+            <h2>Big Smoke</h2>
+            <p>Big Smoke é um membro sênior da Grove Street Families e um aliado inicial de CJ. Ele é conhecido por sua traição mais tarde no jogo.</p>
+            <p>Avaliação: ★★★☆☆</p>
+        </section>
+        <section class="character">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrE-IADkLx6DcdlSeefAjUM4Mlzfq2rbbvKDdHTVn7g&s" alt="Ryder">
+            <h2>Ryder</h2>
+            <p>Ryder é outro membro da Grove Street Families e amigo de longa data de CJ. Ele é um personagem instável e muitas vezes causa problemas.</p>
+            <p>Avaliação: ★★☆☆☆</p>
+        </section>
+    </div>
 </body>
 </html>
