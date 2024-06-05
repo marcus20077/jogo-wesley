@@ -9,10 +9,25 @@
 </head>
 <body>
     <div class="container">
+        <section class="character">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxh6gfmvY3AP63_Zi_XlV9yMruNwGs0eXe9kAX0L4SQ&s" alt="CJ">
+            
+           
         <header>
             <h1>GTA San Andreas</h1>
+            
+            <p class="th">HISTÓRIA</p>
+            
             <p>O jogo se passa no estado ficcional de San Andreas, com a história seguindo Carl "CJ" Johnson em sua luta para lidar com guerras de gangues, confrontos com policiais e as relações com sua família e amigos. O mundo aberto permite que os jogadores naveguem livremente pelas áreas rurais e urbanas de San Andreas.</p>
             
+            <p class="mapt"> MAPA DE LOS SANTOS</p>
+            
+            
+            <section class="mapa">
+            <img src="https://cdn.ome.lt/AfT_ikqvm_An3gKISbFzR0Zjdf0=/770x0/smart/uploads/conteudo/fotos/GTA_San_Andreas_mapa.jpg" alt="mapa">
+
+<p class="curtx" >CURIOSIDADE</p>
+<p class="curiosidade"> É possível ver o fantasma da mãe de CJ, ver um serial-killer sentado em uma cadeira de rodas (se tiver sorte pois ele raramente está lá, e se vê-lo CJ morre na hora), um poço parecido com o filme de terror “O Chamado” e até um restaurante abandonado </p>
             
             
             
@@ -24,19 +39,19 @@
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxh6gfmvY3AP63_Zi_XlV9yMruNwGs0eXe9kAX0L4SQ&s" alt="CJ">
             <h2>Carl Johnson (CJ)</h2>
             <p>Carl é o protagonista de GTA San Andreas, retornando à sua cidade natal após a morte de sua mãe. Ele é forçado a entrar de novo no mundo do crime.</p>
-            <p>Avaliação: ★★★★☆</p>
+            <p class="av">Avaliação: ★★★★☆</p>
         </section>
         <section class="character">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTglcDN-UpaBFXc9qKd6eFY28MTQLSD6GQav2cqnlxmYQ&s" alt="Big Smoke">
             <h2>Big Smoke</h2>
             <p>Big Smoke é um membro sênior da Grove Street Families e um aliado inicial de CJ. Ele é conhecido por sua traição mais tarde no jogo.</p>
-            <p>Avaliação: ★★★☆☆</p>
+            <p class="av">Avaliação: ★★★☆☆</p>
         </section>
         <section class="character">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrE-IADkLx6DcdlSeefAjUM4Mlzfq2rbbvKDdHTVn7g&s" alt="Ryder">
             <h2>Ryder</h2>
             <p>Ryder é outro membro da Grove Street Families e amigo de longa data de CJ. Ele é um personagem instável e muitas vezes causa problemas.</p>
-            <p>Avaliação: ★★☆☆☆</p>
+            <p class="av">Avaliação: ★★☆☆☆</p>
         </section>
     </div>
 </body>
